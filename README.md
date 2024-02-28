@@ -10,6 +10,7 @@ Decryption (DNC_logic): The user inputs an encrypted word, and each letter of th
 equal to the letter's position in the word. The result is printed to the console.
 
 --Usage Instructions--
+
 Upon launching the program, the user is greeted with a message guiding them on how to use the application.
 To encrypt a word, the user should enter "ENC", followed by the word they wish to encrypt.
 To decrypt a word, the user should enter "DNC", followed by the word they wish to decrypt.
