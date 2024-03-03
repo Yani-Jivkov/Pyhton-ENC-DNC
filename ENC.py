@@ -12,5 +12,5 @@ def ENC_logic(): # Main ENC logic
     # Print
     print(f'Here is the crypted word =>', ''.join(new_word))
 
-# Asking for the word to encrypt
+# Calling thu function
 ENC_logic()
